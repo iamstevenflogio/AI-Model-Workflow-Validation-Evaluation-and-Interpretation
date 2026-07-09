@@ -8,3 +8,6 @@ including structural type (concrete, steel, or timber), current condition rating
 carriageway width, load capacity limits, and year of construction or last major rehabilitation.
 
 This notebook was done to demonstrate AI model workflow, validation, evaluation, and interpretation to my professor for my final Data Science 4 project.
+
+You may view the already run colab notebook here:
+https://colab.research.google.com/drive/1st_QFuEQTKK1LKkxbgH32VnSQdeT2w5B?usp=sharing
